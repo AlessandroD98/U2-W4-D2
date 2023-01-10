@@ -457,7 +457,7 @@ footer a {
   background-color: #ffffffa8;
   border: 2px solid white;
   border-radius: 10px;
-  position: absolute;
+  position: fixed;
   top: 1.5%;
     right: 2%;
     display: flex;
@@ -470,7 +470,7 @@ footer a {
   background-color: #ffffffa8;
   border: 2px solid white;
   border-radius: 10px;
-  position: absolute;
+  position: fixed;
   top: 9%;
     right: 2%;
     display: flex;
